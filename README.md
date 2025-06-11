@@ -1,16 +1,19 @@
-# flutter_application_1
+a. Nama Pembuat:
+Ersa Daffa Kurniawan
 
-A new Flutter project.
+b. Judul Project:
+Aplikasi ToDo (Aplikasi Daftar Tugas)
 
-## Getting Started
+c. Deskripsi Fungsionalitas Aplikasi:
+Aplikasi ToDo adalah aplikasi daftar tugas yang membantu pengguna mengelola tugas-tugas mereka secara efisien. Fungsionalitas utama aplikasi meliputi:
 
-This project is a starting point for a Flutter application.
+Registrasi dan Login: Pengguna dapat membuat akun baru atau login menggunakan email dan kata sandi yang sudah terdaftar.
+Daftar Tugas: Menampilkan daftar tugas yang terorganisir dengan nama tugas, tanggal, dan waktu.
+Menambah Tugas: Pengguna dapat menambahkan tugas baru dengan mengisi nama tugas, memilih tanggal, dan menentukan waktu.
+Mengedit Tugas: Pengguna dapat mengedit detail tugas yang sudah ada, seperti nama tugas, tanggal, dan waktu.
+Menandai Tugas Selesai: Terdapat checkbox untuk menandai tugas sebagai selesai, yang secara visual menunjukkan status penyelesaian tugas (misalnya, dengan tanda centang).
+Menghapus Tugas: Pengguna dapat menghapus tugas yang tidak lagi diperlukan.
+d. Teknologi yang Digunakan:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Framework: Flutter
+Autentikasi dan Database: Firebase (digunakan untuk pengelolaan akun pengguna dan penyimpanan data tugas)
